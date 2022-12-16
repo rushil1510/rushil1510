@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rushil1510
-- 👀 I’m interested in competitive programming, web scraping and front-end.
+- 👀 I’m interested in competitive programming, web scraping and data science.
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on any web scraping or front-end projects
+- 💞️ I’m looking to collaborate on all kinds of projects
 - 📫 How to reach me : connect with me on linkedin https://www.linkedin.com/in/rushil-mital-03a610185/ 
 
 <!---
