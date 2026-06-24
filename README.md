@@ -4,7 +4,8 @@ Software/ML engineer building agentic LLM systems, data pipelines, and full-stac
  
 ## What I've been building lately
  
-**[CodeSleuth](https://github.com/rushil1510/codesleuth)**: turns a codebase into call-graph diagrams via AST parsing, built to help new developers (or LLM agents) get oriented in large repos fast.
+
+**[Distill](https://github.com/rushil1510/distill)**: an AST-powered CLI and MCP tool server that detects and refactors TypeScript "god files" into single-responsibility modules, with safe auto-rollback and project-wide import rewriting.
  
 **[Form](https://github.com/rushil1510/Form)**: an iOS app analyzing workout form using on-device pose estimation (Apple Vision/MediaPipe).
  
