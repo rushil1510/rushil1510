@@ -1,6 +1,6 @@
 # Hi, I'm Rushil
  
-Software/ML engineer building agentic LLM systems, data pipelines, and full-stack tools. B.Tech in Energy Engineering (CS minor) from IIT Delhi. Previously built production systems at OLA Electric, currently looking for SWE/ML roles.
+Software/ML engineer building agentic LLM systems, data pipelines, and full-stack tools. B.Tech in Energy Engineering (CS minor) from IIT Delhi. Previously built production systems at OLA Electric, currently working as a SWE-1 at Indeed.com
  
 ## What I've been building lately
  
