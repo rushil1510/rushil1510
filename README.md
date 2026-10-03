@@ -1,6 +1,6 @@
 # Hi, I'm Rushil
  
-Software/ML engineer building agentic LLM systems, data pipelines, and full-stack tools. B.Tech in Energy Engineering (CS minor) from IIT Delhi. Previously built production systems at OLA Electric, currently working as a SWE-1 at Indeed.com
+Software/ML engineer building agentic LLM systems, data pipelines, and full-stack tools. B.Tech in Energy Engineering (CS minor) from IIT Delhi. I'm currently working as a SWE-1 at [Indeed](indeed.com) !
  
 ## What I've been building lately
  
@@ -10,7 +10,7 @@ Software/ML engineer building agentic LLM systems, data pipelines, and full-stac
 **[Form](https://github.com/rushil1510/Form)**: an iOS app analyzing workout form using on-device pose estimation (Apple Vision/MediaPipe).
  
  
-At OLA Electric, I worked on LLM-powered agentic pipelines, RAG and NL-to-SQL systems, and a full-stack data platform (React + Django/Express + PostgreSQL).
+Earlier, at OLA Electric, I worked on LLM-powered agentic pipelines, RAG and NL-to-SQL systems, and a full-stack data platform (React + Django/Express + PostgreSQL).
  
 ## Stack
  
